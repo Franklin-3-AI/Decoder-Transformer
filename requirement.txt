@@ -1,2 +1,2 @@
 torch>=2.4.1
-tokenizer
+tokenizers>=0.19.1
